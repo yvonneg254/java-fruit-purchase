@@ -1,3 +1,7 @@
+/*GLADYS WAMBUI WANJA 
+    SCT121-0381/2023
+    DIT 0403-ADVANCED OOP */
+
 public class FruitPurchase {
     public static void main(String[] args) {
         // Prices of each fruit
